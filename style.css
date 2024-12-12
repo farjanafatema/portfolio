@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+*{
+    font-family: "Open Sans" sans-serif;
+    margin: 0px;
+}
+.navBar{
+    padding: 0 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+.mary{
+    color: #181818;
+    font-weight: 800;
+    font-size: 45px;
+}
+span{
+    color: #FD6E0A;
+}
+ul{
+    display: flex;
+    align-items: baseline;
+    list-style: none;
+}
+ul li{
+    list-style: none;
+    margin-right: 50px;
+}
+li a{
+    font-size: 20px;
+    text-decoration: none;
+    color: #474747;
+}
+.me{
+    border: none;
+    color: white;
+    background-color: #FD6E0A;
+    padding: 18px 35px;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 20px;
+}
+.baba{
+    display: flex;
+    padding-left: 200px;
+    align-items: center;
+}
+.header{
+    background-color: #FFF8F3;
+    background-image: url(images/header_bg.png),url('images/developer.png');
+    background-repeat: no-repeat;
+    background-position: bottom right,left;
+}
+.cv{
+    background-color: #FD6E0A;
+    padding: 15px 30px;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    font-weight: 700;
+    font-size: 20px;
+}
+.contact{
+    color: #FD6E0A;
+    padding: 10px 15px;
+    border: 1px solid #FD6E0A;
+    background-color: white;
+    border-radius: 5px;
+    border-color: #FD6E0A;
+    font-weight: 700;
+    font-size: 20px;
+    margin-left: 5px;
+}
+
+.hi{
+    font-weight: 600;
+    font-size: 45px;
+    color: #474747;
+}
+.hardy{
+    font-weight: 700;
+    font-size: 85px;
+    color: #181818;
+}
+    .dec{
+        font-size: 18px;
+        color: #757575;
+        margin: 20px 0px 30px 0px;
+
+    }
+    .but outline{
+        border:solid 1px #FD6E0A ;
+        color: #FD6E0A;
+        background-color: rgba(255,255,255,0.066);
+        padding: 18px 20px;
+        font-weight:700 ;
+        font-size: 20px;
+        margin-left:30px ;
+        border-radius: 5px;
+    }
+    .about{
+        width: 1140px;
+        height: 550px;
+        background-color: #FFF8F3;
+        margin: 130px auto;
+        border-radius: 10px;
+        padding-top: 130px;
+        padding-bottom: 130px; 
+
+    }
+    .aboutMe{
+        margin: 0px 150px;
+        text-align: center;
+    }
+    .fatheroffourson{
+        display:flex ;
+        justify-content:space-around ; 
+    }
+.aboutMeheding{
+    font-weight: 700;
+    font-size: 35px;
+}
+.aboutMepera{
+    font-size: 18px;
+    margin: 30px 0px;
+    color: #757575;
+}
+.name{
+    font-size: 20px;
+    color: #757575;
+}
+.bolder{
+    font-weight: 700;
+    font-size: 20px;
+    color: #474747;
+}
+.whatIdo{
+    margin: 0px 200px 130px;
+    text-align: center;
+}
+.whatIDotittle{
+    font-weight: 700;
+    font-size: 35px;
+}
+.whatIDopara{
+    padding: 30px 115px 50px;
+    font-size: 18px;
+    color: #757575;
+}
+.whatIDoContainer{
+    display: flex;
+    text-align: left;
+}
+.whatIDOContainerSon{
+ /* border: solid 2px #FD6E0A; */
+ margin: 24px;
+ padding: 30px;
+ box-shadow: 0 4px 0 rgba(0,0,0,0.03),0 6px 20px 0 rgba(0,0,0,0.03);
+ border-radius: 5px;
+}
+.cardtitle{
+    margin: 30px 0px 20px;
+}
